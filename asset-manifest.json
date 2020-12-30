@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Seemaresume/static/css/main.dfb02c18.chunk.css",
+    "main.js": "/Seemaresume/static/js/main.67f93bdd.chunk.js",
+    "main.js.map": "/Seemaresume/static/js/main.67f93bdd.chunk.js.map",
+    "runtime-main.js": "/Seemaresume/static/js/runtime-main.9a6100f5.js",
+    "runtime-main.js.map": "/Seemaresume/static/js/runtime-main.9a6100f5.js.map",
+    "static/js/2.b1678574.chunk.js": "/Seemaresume/static/js/2.b1678574.chunk.js",
+    "static/js/2.b1678574.chunk.js.map": "/Seemaresume/static/js/2.b1678574.chunk.js.map",
+    "static/js/3.3316627f.chunk.js": "/Seemaresume/static/js/3.3316627f.chunk.js",
+    "static/js/3.3316627f.chunk.js.map": "/Seemaresume/static/js/3.3316627f.chunk.js.map",
+    "index.html": "/Seemaresume/index.html",
+    "static/css/main.dfb02c18.chunk.css.map": "/Seemaresume/static/css/main.dfb02c18.chunk.css.map",
+    "static/js/2.b1678574.chunk.js.LICENSE.txt": "/Seemaresume/static/js/2.b1678574.chunk.js.LICENSE.txt",
+    "static/media/54059b3d-d1f7-4c6c-b45b-ce864e8b46b1.3e30a299.jpeg": "/Seemaresume/static/media/54059b3d-d1f7-4c6c-b45b-ce864e8b46b1.3e30a299.jpeg",
+    "static/media/logo.6ce24c58.svg": "/Seemaresume/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6100f5.js",
+    "static/js/2.b1678574.chunk.js",
+    "static/css/main.dfb02c18.chunk.css",
+    "static/js/main.67f93bdd.chunk.js"
+  ]
+}
